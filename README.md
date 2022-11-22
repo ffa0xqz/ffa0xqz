@@ -19,5 +19,5 @@ class Skidder:
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&logoColor=white&color=6aa6f8)
 
 # 🌐 Contacts
- - Discord: [1pop#5617 / ffa#8394]
- - VK: [ffa0xqz](https://vk.com/ffa0xqz)
+ - Discord: 1pop#5617 / ffa#8394
+ - VK: ffa0xqz (https://vk.com/ffa0xqz)
