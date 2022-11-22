@@ -21,3 +21,5 @@ class Skidder:
 # 🌐 Contacts
  - Discord: 1pop#5617 / ffa#8394
  - VK: ffa0xqz (https://vk.com/ffa0xqz)
+ - Discord: [1pop#5617 / ffa#8394](e)
+ - VK: [ffa0xqz](https://vk.com/ffa0xqz) *(sometimes active)*
