@@ -5,7 +5,7 @@ class Skidder:
 
   def __init__(self):
     self.name = "ffa"
-    self..learning.languages = ["C++", "Java"]
+    self..learning.languages = ["C++"]
     self.interests = ["Gaming", "Coding"]
     self.language_spoken = ["RU", "EN"]
 ```
